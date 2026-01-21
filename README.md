@@ -3,7 +3,7 @@ Access the proxies directly in your browser or script via the link below:
 
 https://bitcpay.github.io/Proxies/
 
-View Live SiteGitHub Pages
+View Live Site GitHub Pages
 
  
  Free Residential SOCKS5/HTTPS Proxy Servers
